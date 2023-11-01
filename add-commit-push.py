@@ -1,8 +1,8 @@
 import os
 
 print("Add Commit Push")
-#print("\n git status")
-#os.system("git status")
+print("\n git status")
+os.system("git status")
 print("\n git add -A")
 os.system("git add -A")
 print('\n git commit -m "Update files."')
