@@ -1,5 +1,5 @@
 import os
-
+print("testing")
 print("Add Commit Push")
 print("\n git status")
 os.system("git status")
